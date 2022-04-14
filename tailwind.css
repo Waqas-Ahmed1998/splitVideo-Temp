@@ -45,9 +45,7 @@ input {
 }
 
 .disclaimer {
-
 font-family: sans-serif;
-
 }
 .rgba {
   background-color: rgba(255, 254, 254, 0.9);
@@ -59,7 +57,6 @@ font-family: sans-serif;
 }
 .bullet-heading {
   font-family: 'Open Sans', sans-serif;
-
 
 }
 li {
